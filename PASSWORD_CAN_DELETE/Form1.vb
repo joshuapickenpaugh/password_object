@@ -1,4 +1,8 @@
-﻿Public Class frmMain
+﻿'Joshua Pickenpaugh
+' September 24th, 2016
+' "Password"
+
+Public Class frmMain
 
     'Instantiates the password object:
     Dim pswd As New Password

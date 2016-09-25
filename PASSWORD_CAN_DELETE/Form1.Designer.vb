@@ -31,26 +31,26 @@ Partial Class frmMain
         'lblShowRequest
         '
         Me.lblShowRequest.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle
-        Me.lblShowRequest.Location = New System.Drawing.Point(87, 23)
+        Me.lblShowRequest.Location = New System.Drawing.Point(20, 23)
         Me.lblShowRequest.Name = "lblShowRequest"
-        Me.lblShowRequest.Size = New System.Drawing.Size(100, 23)
+        Me.lblShowRequest.Size = New System.Drawing.Size(235, 23)
         Me.lblShowRequest.TabIndex = 0
         Me.lblShowRequest.Text = " "
         Me.lblShowRequest.TextAlign = System.Drawing.ContentAlignment.MiddleCenter
         '
         'txtTypePassword
         '
-        Me.txtTypePassword.Location = New System.Drawing.Point(87, 50)
+        Me.txtTypePassword.Location = New System.Drawing.Point(20, 50)
         Me.txtTypePassword.Name = "txtTypePassword"
-        Me.txtTypePassword.Size = New System.Drawing.Size(100, 20)
+        Me.txtTypePassword.Size = New System.Drawing.Size(235, 20)
         Me.txtTypePassword.TabIndex = 1
         Me.txtTypePassword.TextAlign = System.Windows.Forms.HorizontalAlignment.Center
         '
         'btnCalc
         '
-        Me.btnCalc.Location = New System.Drawing.Point(87, 74)
+        Me.btnCalc.Location = New System.Drawing.Point(20, 74)
         Me.btnCalc.Name = "btnCalc"
-        Me.btnCalc.Size = New System.Drawing.Size(100, 23)
+        Me.btnCalc.Size = New System.Drawing.Size(235, 23)
         Me.btnCalc.TabIndex = 2
         Me.btnCalc.Text = "Calculate"
         Me.btnCalc.UseVisualStyleBackColor = True
@@ -58,9 +58,9 @@ Partial Class frmMain
         'lblShowAnswer
         '
         Me.lblShowAnswer.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle
-        Me.lblShowAnswer.Location = New System.Drawing.Point(87, 101)
+        Me.lblShowAnswer.Location = New System.Drawing.Point(20, 101)
         Me.lblShowAnswer.Name = "lblShowAnswer"
-        Me.lblShowAnswer.Size = New System.Drawing.Size(100, 23)
+        Me.lblShowAnswer.Size = New System.Drawing.Size(235, 23)
         Me.lblShowAnswer.TabIndex = 3
         Me.lblShowAnswer.Text = " "
         Me.lblShowAnswer.TextAlign = System.Drawing.ContentAlignment.MiddleCenter
